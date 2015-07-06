@@ -1,4 +1,4 @@
-### R files to run the Project Patient Zero demo at the North West Big Bang Fair 2015 ###
+### R files to run the Project Patient Zero demo at the North West Big Bang Fair 2015 #####
 ### Bethany Levick and Amanda Minter, University of Liverpool ###
 ### Code written by BL and AM, Git repository and documentation maintained by BL ###
 
