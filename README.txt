@@ -14,3 +14,5 @@
 ### setup.r establishes the working environment: loads R packages, sets network image formatting
 ### sets initial time of search (set as 1st Jan 2015)
 ### This will only capture Tweets posted within the window that the API can access them (9 days)
+### functions.r containins functions written by BL and AM
+### big-bang.r is the main file used to run the demo on the day
