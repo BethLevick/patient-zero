@@ -3,7 +3,7 @@
 ### Once setup and functions file have been loaded once, this section should not be re run ###
 ##########################################################################################################
 ## set working drive to find setup and functions code files files
-setwd("C:/Users/Bethany/Dropbox/ThresholdFestival-Shared/big-bang_R/git-files")
+setwd("")
 source("functions.r")
 source("setup.r")
 ##########################################################################################################
@@ -12,7 +12,7 @@ source("setup.r")
 ## on first run previous is set in the setup file
 ## from then on it is the time this code was last run - set at the bottom of this document
 ## set working drive for Twitter credentials
-setwd( "C:/Users/Bethany/Dropbox/ThresholdFestival-Shared/" )
+setwd( "" )
 ## perform twitter search
 s <- searchTwitter('#BigBangNW', n=1000, since="2015-01-01", cainfo="cacert.pem")
 
