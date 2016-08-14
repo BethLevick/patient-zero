@@ -11,7 +11,7 @@ require(igraph)
 library (twitteR)
 ### set working drive to pull Twitter authorisation from ###
 ### TODO: ensure this is correct on machine we take to Aintree ###
-setwd( "C:/Users/Bethany/Dropbox/ThresholdFestival-Shared/" )
+setwd( "" )
 ## load credentials
 load("twitteR_credentials")
 ## check connection - will print [TRUE]
